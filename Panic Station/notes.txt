@@ -1,8 +1,0 @@
-Panic Station
-Blås fra 
-1:16 (Takt ~33)
-2:05 
-Rytme, men feil noter i takt 2 og 3:
-	http://i.imgur.com/szcS0XF.png
-Riktige noter (natura):
-	B D E BDEG BDG X2 A C# E AC#EG AC#E C E G CEGA BDE
